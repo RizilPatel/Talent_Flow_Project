@@ -1,12 +1,12 @@
 # TalentFlow
 TalentFlow is a hiring platform designed to simplify recruitment for HR teams and hiring managers. It enables managing job listings, tracking candidate progress through stages, creating and taking assessments, and analyzing hiring metrics via an interactive dashboard with data export capabilities.
-{Visit here}:'https://talent-flow-project.vercel.app/'
+[Visit here] (https://talent-flow-project.vercel.app "TALENT-FLOW-APP")
 
 
 ## Table of Contents
 
 - [Features](#features)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#tech-stack)a
 - [Project Structure](#project-structure)
 - [Setup Instructions](#setup-instructions)
 - [Architecture](#architecture)
