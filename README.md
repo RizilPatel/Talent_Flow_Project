@@ -1,5 +1,6 @@
 # TalentFlow
-TalentFlow is a modern, feature-rich hiring platform designed for streamlined recruitment management. Built with React.js, Vite, and Tailwind CSS, it offers a responsive UI, light/dark mode, and robust analytics—all powered by mock APIs for rapid prototyping and testing.
+TalentFlow is a hiring platform designed to simplify recruitment for HR teams and hiring managers. It enables managing job listings, tracking candidate progress through stages, creating and taking assessments, and analyzing hiring metrics via an interactive dashboard with data export capabilities.
+
 
 ## Table of Contents
 
